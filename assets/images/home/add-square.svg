@@ -1,0 +1,6 @@
+<svg id="vuesax_bold_add-square" data-name="vuesax/bold/add-square" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="add-square">
+    <path id="Vector" d="M14.18,20H5.81C2.172,20,0,17.824,0,14.18V5.81C0,2.172,2.172,0,5.81,0h8.38a5.865,5.865,0,0,1,4.271,1.542A5.856,5.856,0,0,1,19.99,5.81v8.38C19.99,17.828,17.818,20,14.18,20ZM6,9.25A.76.76,0,0,0,5.25,10,.751.751,0,0,0,6,10.75H9.25V14a.76.76,0,0,0,.75.75.751.751,0,0,0,.75-.75V10.75H14a.751.751,0,0,0,.75-.75A.76.76,0,0,0,14,9.25H10.75V6A.751.751,0,0,0,10,5.25.76.76,0,0,0,9.25,6V9.25Z" transform="translate(2 2)" fill="#00af80"/>
+    <path id="Vector-2" data-name="Vector" d="M24,0V24H0V0Z" transform="translate(24 24) rotate(180)" fill="none" opacity="0"/>
+  </g>
+</svg>

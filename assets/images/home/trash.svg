@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="vuesax_twotone_trash" data-name="vuesax/twotone/trash" transform="translate(0.5 0.5)">
+    <g id="trash">
+      <path id="Vector" d="M11.25.313C9.169.106,7.075,0,4.987,0A36.918,36.918,0,0,0,1.275.188L0,.313" transform="translate(1.875 3.425)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+      <path id="Vector-2" data-name="Vector" d="M0,1.856l.138-.819C.238.444.312,0,1.369,0H3.006C4.063,0,4.144.469,4.237,1.044l.138.812" transform="translate(5.313 1.25)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0" opacity="0.34"/>
+      <path id="Vector-3" data-name="Vector" d="M8.563,0,8.156,6.294c-.069.981-.125,1.744-1.869,1.744H2.275c-1.744,0-1.8-.763-1.869-1.744L0,0" transform="translate(3.219 5.713)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H2.081" transform="translate(6.456 10.313)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0" opacity="0.34"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H3.125" transform="translate(5.938 7.813)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0" opacity="0.34"/>
+      <path id="Vector-6" data-name="Vector" d="M15,0V15H0V0Z" fill="none" stroke="#fff" stroke-width="1" opacity="0"/>
+    </g>
+  </g>
+</svg>

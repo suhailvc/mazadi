@@ -1,0 +1,15 @@
+<svg id="info" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_42036" data-name="Group 42036">
+    <circle id="Ellipse_452" data-name="Ellipse 452" cx="15" cy="15" r="15" fill="#037fff"/>
+    <circle id="Ellipse_453" data-name="Ellipse 453" cx="15" cy="15" r="15" fill="#e45c5c"/>
+  </g>
+  <g id="vuesax_bulk_danger" data-name="vuesax/bulk/danger" transform="translate(7.261 7.784)">
+    <g id="vuesax_bulk_danger-2" data-name="vuesax/bulk/danger" transform="translate(0)">
+      <g id="danger" transform="translate(0)">
+        <path id="Vector" d="M10.229,1.764A2.955,2.955,0,0,0,7.739,0,2.955,2.955,0,0,0,5.248,1.764L.5,10.234a2.89,2.89,0,0,0-.185,2.933,2.926,2.926,0,0,0,2.676,1.264h9.488a2.926,2.926,0,0,0,2.676-1.264,2.89,2.89,0,0,0-.185-2.933Z" transform="translate(0 0)" fill="#fff"/>
+        <path id="Vector-2" data-name="Vector" d="M0,4.227V.551a.556.556,0,0,1,1.112,0V4.227A.556.556,0,0,1,0,4.227Z" transform="translate(7.182 4.595)" fill="#e45c5c"/>
+        <path id="Vector-3" data-name="Vector" d="M.593,1.457A.474.474,0,0,1,.46,1.413a.563.563,0,0,1-.133-.066L.215,1.259A.77.77,0,0,1,0,.737.77.77,0,0,1,.215.215L.326.127A.563.563,0,0,1,.46.061.474.474,0,0,1,.593.017a.64.64,0,0,1,.289,0,.45.45,0,0,1,.141.044.563.563,0,0,1,.133.066l.111.088a.77.77,0,0,1,.215.522.77.77,0,0,1-.215.522l-.111.088a.563.563,0,0,1-.133.066.45.45,0,0,1-.141.044.915.915,0,0,1-.141.015A1.123,1.123,0,0,1,.593,1.457Z" transform="translate(6.997 10.291)" fill="#e45c5c"/>
+      </g>
+    </g>
+  </g>
+</svg>

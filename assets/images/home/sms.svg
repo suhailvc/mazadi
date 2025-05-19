@@ -1,0 +1,12 @@
+<svg id="Group_46465" data-name="Group 46465" xmlns="http://www.w3.org/2000/svg" width="14.241" height="14.241" viewBox="0 0 14.241 14.241">
+  <path id="Path_80477" data-name="Path 80477" d="M7.121,0A7.121,7.121,0,1,1,0,7.121,7.121,7.121,0,0,1,7.121,0Z" fill="#fff"/>
+  <g id="vuesax_bold_message-text" data-name="vuesax/bold/message-text" transform="translate(2.262 2.565)">
+    <g id="vuesax_bold_message-text-2" data-name="vuesax/bold/message-text">
+      <g id="message-text">
+        <path id="Vector" d="M4.069,8.138a.612.612,0,0,1-.488-.269l-.61-.81A.466.466,0,0,0,2.645,6.9h-.61A2.033,2.033,0,0,1,0,4.869V2.027A2.033,2.033,0,0,1,2.035,0H6.1A2.033,2.033,0,0,1,8.138,2.027V4.869A2.033,2.033,0,0,1,6.1,6.9h-.61a.412.412,0,0,0-.326.163l-.61.81A.612.612,0,0,1,4.069,8.138ZM2.035,4.173a.309.309,0,0,0-.305.305.306.306,0,0,0,.305.306H4.476a.306.306,0,0,0,.305-.306.309.309,0,0,0-.305-.305Zm0-2.036a.306.306,0,0,0-.305.306.309.309,0,0,0,.305.305H6.1a.305.305,0,0,0,0-.611Z" transform="translate(1.017 1.017)" fill="#00af80"/>
+        <path id="Vector-2" data-name="Vector" d="M10.172,0V10.172H0V0Z" fill="#00af80" opacity="0"/>
+        <path id="Vector-3" data-name="Vector" d="M10.172,0V10.172H0V0Z" transform="translate(10.172 10.172) rotate(180)" fill="#00af80" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

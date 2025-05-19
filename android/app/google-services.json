@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "459682376531",
+    "project_id": "mazadi-2fa02",
+    "storage_bucket": "mazadi-2fa02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459682376531:android:eb14ab2f35a81cf901cfa6",
+        "android_client_info": {
+          "package_name": "com.example.mazzad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459682376531-kp4qdfp7t5iqgd55lg205vrabc470178.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP7k3sEGBoj8LWlFLCazyIq7hl3VDFNxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459682376531-kp4qdfp7t5iqgd55lg205vrabc470178.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "459682376531-gam2uenegm87ejgv6g1mae6gebus8i5t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mazzadi.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459682376531:android:6741b119eb82407901cfa6",
+        "android_client_info": {
+          "package_name": "com.mazzadi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459682376531-kp4qdfp7t5iqgd55lg205vrabc470178.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP7k3sEGBoj8LWlFLCazyIq7hl3VDFNxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459682376531-kp4qdfp7t5iqgd55lg205vrabc470178.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "459682376531-gam2uenegm87ejgv6g1mae6gebus8i5t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mazzadi.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

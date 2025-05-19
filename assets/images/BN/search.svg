@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="vuesax_broken_search-normal" data-name="vuesax/broken/search-normal" transform="translate(0.5 0.5)">
+    <g id="vuesax_broken_search-normal-2" data-name="vuesax/broken/search-normal">
+      <g id="search-normal">
+        <path id="Vector" d="M8.25,0A8.243,8.243,0,1,1,4.519.889" transform="translate(1.833 1.833)" fill="none" stroke="#858585" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+        <path id="Vector-2" data-name="Vector" d="M2.539,2.136C3.328.962,2.814,0,1.4,0A1.294,1.294,0,0,0,.092,1.806C.578,3.272,1.687,3.419,2.539,2.136Z" transform="translate(17.39 17.417)" fill="none" stroke="#858585" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+        <path id="Vector-3" data-name="Vector" d="M22,0V22H0V0Z" fill="none" stroke="#858585" stroke-width="1" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

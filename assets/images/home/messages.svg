@@ -1,0 +1,18 @@
+<svg id="vuesax_bulk_messages" data-name="vuesax/bulk/messages" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <g id="vuesax_bulk_messages-2" data-name="vuesax/bulk/messages">
+    <g id="messages">
+      <path id="Vector" d="M15,0V15H0V0Z" fill="#9b9b9b" opacity="0"/>
+      <path id="Vector-2" data-name="Vector" d="M9.988,5.494a3.791,3.791,0,0,1-.025.469C9.819,7.65,8.825,8.487,6.994,8.487h-.25a.5.5,0,0,0-.4.2l-.75,1a.707.707,0,0,1-1.2,0l-.75-1a.577.577,0,0,0-.4-.2h-.25C1,8.487,0,7.994,0,5.494v-2.5C0,1.163.844.169,2.525.025A3.791,3.791,0,0,1,2.994,0h4A2.648,2.648,0,0,1,9.988,2.994Z" transform="translate(1.25 3.75)" fill="#9b9b9b" opacity="0.4"/>
+      <g id="Group" transform="translate(5.619 7.5)">
+        <path id="Vector-3" data-name="Vector" d="M0,.625a.625.625,0,1,1,.625.625A.627.627,0,0,1,0,.625Z" fill="#9b9b9b"/>
+      </g>
+      <g id="Group-2" data-name="Group" transform="translate(7.806 7.5)">
+        <path id="Vector-4" data-name="Vector" d="M0,.625a.625.625,0,1,1,.625.625A.627.627,0,0,1,0,.625Z" fill="#9b9b9b"/>
+      </g>
+      <g id="Group-3" data-name="Group" transform="translate(3.438 7.5)">
+        <path id="Vector-5" data-name="Vector" d="M0,.625a.625.625,0,1,1,.625.625A.627.627,0,0,1,0,.625Z" fill="#9b9b9b"/>
+      </g>
+      <path id="Vector-6" data-name="Vector" d="M9.963,5.494q0,2.756-2.525,2.969a3.791,3.791,0,0,0,.025-.469v-2.5A2.648,2.648,0,0,0,4.469,2.5h-4A3.791,3.791,0,0,0,0,2.525C.144.844,1.138,0,2.969,0h4A2.648,2.648,0,0,1,9.963,2.994Z" transform="translate(3.774 1.25)" fill="#9b9b9b"/>
+    </g>
+  </g>
+</svg>

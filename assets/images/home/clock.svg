@@ -1,0 +1,8 @@
+<svg id="vuesax_bulk_clock" data-name="vuesax/bulk/clock" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <g id="vuesax_bulk_clock-2" data-name="vuesax/bulk/clock">
+    <g id="clock">
+      <path id="Vector" d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" fill="#ffcd22"/>
+      <path id="Vector-2" data-name="Vector" d="M3.33,6.795,1,5.408a2.212,2.212,0,0,1-1-1.77V.563A.567.567,0,0,1,.563,0a.567.567,0,0,1,.563.563V3.637a1.108,1.108,0,0,0,.457.8L3.908,5.827a.562.562,0,0,1,.2.773.578.578,0,0,1-.488.277A.5.5,0,0,1,3.33,6.795Z" transform="translate(6.668 3.57)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

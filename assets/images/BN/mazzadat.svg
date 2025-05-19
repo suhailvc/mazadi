@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="vuesax_twotone_judge" data-name="vuesax/twotone/judge" transform="translate(0.5 0.5)">
+    <g id="judge">
+      <path id="Vector" d="M4.95,4.95,0,0" transform="translate(15.061 13.56)" fill="none" stroke="#3c4151" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Vector-2" data-name="Vector" d="M7.655,14.725a2,2,0,0,1-2.83,0l-4.24-4.24a2,2,0,0,1,0-2.83L7.655.585a2,2,0,0,1,2.83,0l4.24,4.24a2,2,0,0,1,0,2.83l-3.53,3.53Z" transform="translate(3.865 2.375)" fill="none" stroke="#3c4151" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H6" transform="translate(2 21)" fill="none" stroke="#3c4151" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0,7.07,7.07" transform="translate(6.561 7.92)" fill="none" stroke="#3c4151" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-5" data-name="Vector" d="M24,0V24H0V0Z" fill="none" stroke="#3c4151" stroke-width="1" opacity="0"/>
+    </g>
+  </g>
+</svg>
